@@ -80,6 +80,17 @@ Possuo um **diferencial analítico e tecnológico raro no mercado jurídico**: a
 
 ---
 
+
+---
+
+### 🚀 Repositórios & Portfólio Público em Destaque
+
+| Projeto | Stack Principal | Foco & Aplicação Prática | Repositório |
+|:---|:---|:---|:---:|
+| 🏛️ **Legal Search API** | TypeScript, Express, Redis, Elasticsearch, Bull, Docker | Busca semântica e monitoramento escalável de publicações nos Diários da Justiça (DJE/DJEN). | [Ver Repositório](https://github.com/funil66/API-TRIBUNAL) |
+| 🤖 **RPA Forense de Diligências** | Python 3.12, Playwright, SQLite, NocoDB, Telegram | Robô com evasão anti-bot para captura, precificação de atos e sincronização com CRM. | [Ver Repositório](https://github.com/funil66/RPA-DILIGENCIAS) |
+| 🌐 **Site Institucional & Web App** | HTML5, JavaScript, Docker, Nginx, SEO Estruturado | Portal oficial da advocacia com páginas especializadas em Contencioso Bancário e Fraudes. | [Ver Repositório](https://github.com/funil66/SITE-FINAL) |
+
 <details>
 <summary><b>📋 Clique aqui para visualizar o Currículo Executivo Resumido</b></summary>
 
