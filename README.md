@@ -8,7 +8,7 @@
 [![Website](https://img.shields.io/badge/Site-allissonsousa.adv.br-green.svg)](https://allissonsousa.adv.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Allisson%20Sousa-0077b5.svg)](https://www.linkedin.com/in/allisson-sousa-90959b424/)
 
-**Advogado Sênior | Especialista em Contencioso Bancário, Fraudes Digitais & Legal Ops | Engenharia de Software Aplicada**  
+**Advogado Pleno | Especialista em Contencioso Bancário, Fraudes Digitais & Legal Ops | Engenharia de Software Aplicada**  
 *Ribeirão Preto – SP, Brasil*
 
 </div>
@@ -17,9 +17,9 @@
 
 ### 🏛️ Sobre Mim
 
-Advogado Sênior (OAB/SP 390.456) com mais de uma década de experiência no **Contencioso Cível, Bancário e Consumerista**, prestando assessoria estratégica e contenciosa a instituições financeiras de primeira linha (*Itaú Unibanco, Banco do Brasil, Santander, Banco Daycoval e Banco BV*), além de consultoria corporativa.
+Advogado Pleno (OAB/SP 390.456) com mais de uma década de experiência no **Contencioso Cível, Bancário e Consumerista**, prestando assessoria estratégica e contenciosa a instituições financeiras de primeira linha (*Itaú Unibanco, Banco do Brasil, Santander, Banco Daycoval e Banco BV*), além de consultoria corporativa.
 
-Possuo um **diferencial analítico e tecnológico raro no mercado jurídico**: a convergência entre a prática jurídica sênior (gestão de carteiras robustas, zero índice de revelia e elaboração de teses defensivas de alta complexidade) e a **Engenharia de Software**, permitindo auditar logs bancários, analisar dados transacionais, mapear jurimetria e desenhar arquiteturas de automação forense e Legal Ops.
+Possuo um **diferencial analítico e tecnológico raro no mercado jurídico**: a convergência entre a prática jurídica contenciosa (gestão de carteiras robustas, zero índice de revelia e elaboração de teses defensivas de alta complexidade) e a **Engenharia de Software**, permitindo auditar logs bancários, analisar dados transacionais, mapear jurimetria e desenhar arquiteturas de automação forense e Legal Ops.
 
 ---
 
