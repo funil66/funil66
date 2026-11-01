@@ -3,19 +3,19 @@
 <div align="center">
 
 [![OAB/SP](https://img.shields.io/badge/OAB%2FSP-390.456-0a66c2.svg?style=for-the-badge)](https://allissonsousa.adv.br)
-[![Cargo](https://img.shields.io/badge/Advogado%20Pleno-Contencioso%20Bancário%20%7C%20Legal%20Ops-darkblue.svg?style=for-the-badge)](#)
+[![Cargo](https://img.shields.io/badge/Advogado%20Sênior-Contencioso%20Bancário%20%7C%20Legal%20Ops-darkblue.svg?style=for-the-badge)](#)
 [![Engenharia](https://img.shields.io/badge/Engenharia-.NET%2010%20%7C%20C%23%20%7C%20Python%20%7C%20Postgres-00599c.svg?style=for-the-badge)](#)
 
 <br/>
 
-[![Baixar Currículo PDF](https://img.shields.io/badge/📄%20Baixar%20Currículo%20PDF%20Oficial-Download-007acc?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/funil66/funil66/main/assets/Curriculo_Allisson_Sousa_Oficial.pdf)
+[![Baixar Currículo PDF Oficial](https://img.shields.io/badge/📄%20Baixar%20Currículo%20PDF%20Oficial-Download-007acc?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/funil66/funil66/main/assets/Curriculo_Allisson_Sousa_Oficial.pdf)
 [![Ver Currículo Online](https://img.shields.io/badge/📖%20Ver%20Currículo%20Online-Markdown-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/funil66/funil66/blob/main/CURRICULO.md)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Allisson%20Sousa-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allisson-sousa-90959b424/)
 [![Website](https://img.shields.io/badge/Website-allissonsousa.adv.br-28a745.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://allissonsousa.adv.br)
 
 <br/>
 
-**Advogado Pleno (OAB/SP 390.456) & Software Engineer | Especialista em Contencioso Bancário, Fraudes Digitais, Legal Ops & Automação com IA**  
+**Advogado Sênior (OAB/SP 390.456) & Software Engineer | Especialista em Contencioso Bancário, Fraudes Digitais, Legal Ops & Automação com IA**  
 *Ribeirão Preto – SP, Brasil*
 
 </div>
@@ -24,7 +24,7 @@
 
 ### 🏛️ Sobre Mim & O Crossover Raro
 
-Advogado Pleno (OAB/SP 390.456) com mais de uma década de experiência no **Contencioso Cível, Bancário e Consumerista**, prestando assessoria estratégica e contenciosa a instituições financeiras líderes (*Itaú Unibanco, Banco do Brasil, Santander, Banco Daycoval e Banco BV*), além de consultoria corporativa.
+Advogado Sênior (OAB/SP 390.456) com quase uma década de sólida experiência no **Contencioso Cível, Bancário e Consumerista Estratégico**, prestando assessoria contenciosa e preventiva a instituições financeiras líderes (*Itaú Unibanco, Banco do Brasil, Santander, Banco Daycoval e Banco BV*), além de consultoria corporativa.
 
 Possuo um **diferencial analítico e tecnológico raro no mercado jurídico**: a convergência entre a prática jurídica contenciosa de massa/estratégica (gestão de carteiras robustas, zero índice de revelia e elaboração de teses defensivas de alta complexidade) e a **Engenharia de Software**, permitindo:
 - **Auditoria Forense de Logs & Trilhas Bancárias:** Análise minuciosa de logs de acesso, transações via PIX, registros de IPs, engenharia reversa de fraudes e elaboração de quesitos periciais técnicos.
@@ -35,7 +35,7 @@ Possuo um **diferencial analítico e tecnológico raro no mercado jurídico**: a
 
 ### 💼 Especialidades Jurídicas
 
-- 🛡️ **Fraudes Eletrônicas & Crimes Digitais:** Defesas técnicas em litígios bancários envolvendo golpes do PIX, SIM swap, invasões de aplicativo, phishing e engenharia social.
+- 🛡️ **Fraudes Eletrônicas & Crimes Digitais:** Defesas técnicas em litígios bancários envolvendo golpes do PIX, SIM swap, invasões de aplicativo, phishing e engenharia social sob a Resolução BCB nº 1/2020.
 - ⚖️ **Superendividamento (Lei Federal nº 14.181/2021):** Condução de repactuações, preservação do mínimo existencial e conciliações em bloco com credores.
 - 📈 **Expurgos Inflacionários / Planos Econômicos:** Condução técnica, liquidação de cálculos e habilitações nos acordos FEBRABAN/STF (Planos Bresser, Verão, Collor I e II).
 - ⚙️ **Legal Operations & Jurimetria:** SLA rigoroso, saneamento de passivos e integração entre departamentos jurídicos e ferramentas de BI.
@@ -80,9 +80,6 @@ Possuo um **diferencial analítico e tecnológico raro no mercado jurídico**: a
 
 ---
 
-
----
-
 ### 🚀 Portfólio de Engenharia & Legal Ops em Destaque
 
 | Projeto | Stack Principal | Foco & Aplicação Prática | Status / Acesso |
@@ -98,26 +95,28 @@ Possuo um **diferencial analítico e tecnológico raro no mercado jurídico**: a
 
 #### 🏛️ Trajetória Profissional
 
-- **Advocacia Autônoma & Consultoria Jurídica Estratégica** *(10/2024 – Atual)*  
-  *Advogado Fundador & Consultor de Legal Ops*  
-  Atuação contenciosa cível e bancária de alta complexidade, fraudes eletrônicas (PIX, SIM Swap), superendividamento (Lei 14.181/2021), execuções de planos econômicos e automação de rotinas jurídicas com C#/.NET e Python.
+- **Allisson Sousa Advocacia** *(09/2025 – Presente)*  
+  *Advogado Titular, Consultor Estratégico & Legal Tech*  
+  Atuação contenciosa cível e bancária de alta complexidade, sustentação oral, correspondência forense e desenvolvimento do ecossistema JARVIS em C#/.NET 10 e PostgreSQL.
 
-- **Tortoro, Madureira & Ragazzi Advogados** *(05/2024 – 10/2024)*  
-  *Advogado Pleno — Contencioso Bancário Estratégico*  
-  Defesas complexas, recursos aos tribunais estaduais e superiores (STJ/STF) e audiências de instrução para bancos líderes (*Banco do Brasil, Santander, Itaú Unibanco*). Análise pericial contábil e grafotécnica e 100% de tempestividade.
+- **Tortoro, Madureira & Ragazzi Advogados** *(02/2025 – 08/2025)*  
+  *Advogado Sênior — Contencioso Bancário*  
+  Liderança técnica em carteira de aproximadamente 1.200 processos representando Banco Daycoval em superendividamento (Lei 14.181/2021) com zero revelias e 100% de tempestividade.
 
-- **Reis Advogados Associados** *(04/2021 – 11/2021)*  
-  *Advogado Pleno — Contencioso Bancário Massificado*  
-  Gestão operacional de carteira de contencioso bancário de alto volume via ProJuris, elaboração de peças de defesa customizadas por comarca, condução de acordos estratégicos e zero índice de revelia.
+- **Reis Advogados Associados** *(04/2023 – 01/2025)*  
+  *Advogado Contencioso Bancário*  
+  Frente Itaú Unibanco (fraudes digitais, PIX, SIM swap) e Frente Banco do Brasil (expurgos inflacionários, FEBRABAN e desprovisionamento financeiro de contingências).
 
 - **Tranquilli & Loro Sociedade de Advogados** *(09/2018 – 04/2021)*  
   *Advogado Associado*  
-  Condução de carteira de contencioso cível e bancário, audiências, peças em todas as fases processuais e atendimento direto a clientes.
+  Condução de carteira de contencioso cível e bancário, audiências, peças em todas as fases processuais e atendimento direto a clientes corporativos.
 
 #### 🎓 Formação Acadêmica
 
-- **Bacharelado em Direito** — Universidade Paulista (UNIP), Campus Ribeirão Preto/SP (2012 – 2016).  
-- **Ordem dos Advogados do Brasil:** Inscrição OAB/SP 390.456.
+- **Bacharelado em Direito** — Universidade Paulista (UNIP), Campus Ribeirão Preto/SP (2011 – 2016) | Inscrição OAB/SP nº 390.456.
+- **Bacharelado em Engenharia de Software** — Universidade Estácio de Sá (2024 – Presente) | Cursando.
+- **Microsoft Full Stack Developer** — Microsoft & Coursera (2026 – Presente) | Certificação Profissional em Andamento.
+- **Técnico em Serviços Jurídicos** — ETEC José Martimiano da Silva (2009 – 2010) | Concluído.
 
 </details>
 
@@ -125,7 +124,8 @@ Possuo um **diferencial analítico e tecnológico raro no mercado jurídico**: a
 
 ### 📬 Contato & Conexão
 
+- 📱 **Telefone / WhatsApp:** [+55 (16) 99374-1001](https://wa.me/5516993741001)
+- ✉️ **E-mail:** [allissonsousa.adv@gmail.com](mailto:allissonsousa.adv@gmail.com)
 - 🌐 **Site:** [allissonsousa.adv.br](https://allissonsousa.adv.br)
 - 💼 **LinkedIn:** [linkedin.com/in/allisson-sousa-90959b424/](https://www.linkedin.com/in/allisson-sousa-90959b424/)
-- ✉️ **E-mail:** [allissonsousa.adv@gmail.com](mailto:allissonsousa.adv@gmail.com)
 - 📍 **Localização:** Ribeirão Preto – SP, Brasil
